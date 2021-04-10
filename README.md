@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarKbYte02
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning C++ competitive programming.
-- 💞️ I’m looking to collaborate on any proyects I can help.
+- 💞️ I’m looking forward to collaborating on any proyects I can help you with.
 - 📫 How to reach me Email me danielromero6665@gmail.com
 
 <!---
